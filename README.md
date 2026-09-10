@@ -1,9 +1,14 @@
 # Button X
 
-- Rebranding ID: 68c1ebe28c97b367120daecc
-- User ID: 68c1ea2c8c97b367120d89e8
-- App name: Button X
-- Product name: Button Sender
+Button X by Button X.
 
-App logo: https://api.digibulkmarketing.com/media/uploads/image/cb04eee6-e8a9-4f96-9f74-b31ea3380d4f.png
-![App Logo](https://api.digibulkmarketing.com/media/uploads/image/cb04eee6-e8a9-4f96-9f74-b31ea3380d4f.png)
+## Installation
+
+### Windows
+1. Download the latest **`.exe`** installer from the [Releases page](https://github.com/digi-bulk-marketing/68c1ebe28c97b367120daecc/releases/latest).
+2. Run the installer and follow the prompts.
+3. Launch **Button X** from the Start menu.
+
+## Updates
+
+Download the newest installer from the [Releases page](https://github.com/digi-bulk-marketing/68c1ebe28c97b367120daecc/releases/latest) and reinstall.
